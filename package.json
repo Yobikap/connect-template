@@ -1,0 +1,30 @@
+{
+  "name": "connect-template",
+  "version": "0.1.0",
+  "author": {
+    "name": "James S. Ibrahim",
+    "email": "j.s.ibrahim@anaar.nl"
+  },
+  "description": "Adds the ability to interpolate templates such as html, javascript, css and more at run-time or as post/pre processing.",
+  "main": "./lib/connect-template",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yobikap/connect-template.git"
+  },
+  "keywords": [
+    "connect",
+    "template"
+  ],
+  "dependencies": {
+    "stream-buffers": ">= 0.2.3",
+    "connect": ">= 2.7.2"
+  },
+  "engines": {
+    "node": ">=0.8"
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+      "url": "https://github.com/Yobikap/connect-template/issues"
+  },
+    "homepage": "https://github.com/Yobikap/connect-template"
+}
