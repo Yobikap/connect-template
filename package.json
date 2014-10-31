@@ -17,7 +17,8 @@
   ],
   "dependencies": {
     "stream-buffers": ">= 0.2.3",
-    "connect": ">= 2.7.2"
+    "connect": ">= 2.7.2",
+    "parseurl": "1.0.1"
   },
   "engines": {
     "node": ">=0.8"
